@@ -1,0 +1,13 @@
+Pollutant,Correlation
+CO,0.6776
+PM25,0.6561
+NO2,0.5331
+SO2,0.4829
+NO,0.453
+NOx,0.4491
+PM10,0.4359
+Toluene,0.2853
+O3,0.1904
+Xylene,0.1885
+Benzene,0.0515
+NH3,-0.0187
